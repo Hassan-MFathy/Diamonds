@@ -1,7 +1,11 @@
 # Diamonds
-Diamonds price prediction
-Analyzing diamonds by their cut, color, clarity, price, and other attribute
+
+Analyzing diamonds by their cut, color, clarity, price, and other attribute 
+
+
 Context
+
+
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
 
 Content
